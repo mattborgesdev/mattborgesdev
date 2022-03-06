@@ -26,9 +26,15 @@
 <details>
   <summary align="left">
   💬 About Me 
-</summary> <br>
+</summary> <br> 
+  
+  - 💬 I speak Portuguese, and have a good understanding of English and Spanish
 
-  - More soon...
+ - 🎲 My hobby is playing RPG using dice
+
+ - 🚲 I love cycling around the city
+
+ - ⌛ I am a lifelong learner and i see my future writing lines and lines of code
 </details>
 
 <details>
