@@ -5,7 +5,7 @@
 
 <img align="center" src="https://github.com/mattborgesdev/mattborgesdev/blob/main/images/rainbow-line.png">
 
-<img align="right" src="https://github.com/mattborges/dev/blob/main/images/cat-dev.gif" alt="Cat coding" width="230px">
+<img align="right" src="https://github.com/mattborgesdev/mattborgesdev/blob/main/images/catjam.gif" alt="Cat coding" width="230px">
 
 
 <p align="left">
