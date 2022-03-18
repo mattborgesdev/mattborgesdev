@@ -70,6 +70,8 @@
 📁 Best Projects
   </summary> <br>
  
+  - <a href="https://github.com/mattborgesdev/mattborgesdev.github.io">💻 My website</a>
+  - <a href="https://github.com/mattborgesdev/FlexBlog"> 🔳 FlexBlog</a>
   - <a href="https://github.com/mattborgesdev/the-winter-chronicles-rpg">🏰 The Winter Chronicles RPG</a>
   - More soon...
 </details>
