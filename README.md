@@ -14,10 +14,10 @@
   I'm Matheus Borges, a software developer in training.<br><br>
   You can find my projects here on <a href="https://github.com/mattborgesdev?tab=repositories">**GitHub**</a> and you can also find me on the web:
   
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-7159c1?style=for-the-badge&logo=linkedin&logoColor=white&link=[thing]https://www.linkedin.com/in/mewmewdevart/)](https://www.linkedin.com/in/mattborgesdev)
-[![email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=[thing]mailto:mattborgesdev@gmail.com)](mailto:mattborgesdev@gmail.com)
-
-
+[![Website](https://img.shields.io/badge/GitHub.io-100000?style=for-the-badge&logo=github&logoColor=white)](https://mattborgesdev.github.io)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattborgesdev)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mattborges/)
+ 
 </p>
 
 <br>
