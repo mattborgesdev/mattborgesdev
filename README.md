@@ -10,8 +10,7 @@
 
 <p align="left">
   
-  I'm very glad to see you here!!!<br>
-  I'm Matheus Borges, a software developer in training.<br><br>
+  I'm Matheus Borges, a software developer in training who has a strong interest in developing technology skills and in pursuing a professional career as a software developer.<br><br>
   You can find my projects here on <a href="https://github.com/mattborgesdev?tab=repositories">**GitHub**</a> and you can also find me on the web:
   
 [![Website](https://img.shields.io/badge/GitHub.io-100000?style=for-the-badge&logo=github&logoColor=white)](https://mattborgesdev.github.io)
@@ -42,7 +41,7 @@
 📚 Career
   </summary> <br>
   
- - 📑 First year of Software Engineering at <a href="https://www.linkedin.com/school/universidade-de-bras-lia/" />ETB</a>
+ - 📑 First year of Software Engineering at <a href="https://www.linkedin.com/school/universidade-de-bras-lia/" />UnB</a>
   
  - 📑 Graduated in IT Technician at <a href="https://www.linkedin.com/company/etb-escola-t-cnica-de-brasilia/" />ETB</a>
  
