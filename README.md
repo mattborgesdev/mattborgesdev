@@ -42,9 +42,12 @@
 📚 Career
   </summary> <br>
   
- - 📑 Graduated in IT Technician at <a href="https://www.linkedin.com/company/etb-escola-t-cnica-de-brasilia/">ETB</a>
+ - 📑 First year of Software Engineering at <a href="https://www.linkedin.com/school/universidade-de-bras-lia/" />ETB</a>
+  
+ - 📑 Graduated in IT Technician at <a href="https://www.linkedin.com/company/etb-escola-t-cnica-de-brasilia/" />ETB</a>
  
- - 🧠 Currently studying ![Javascript](https://img.shields.io/badge/-JavaScript-7159c1?style=flat-square&logo=javascript&logoColor=white) ![UI/UX Design](https://img.shields.io/badge/-UI%2FUX%20Design-7159c1)
+ - 🧠 Currently studying <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+
   <br>
   
 </details>
@@ -54,14 +57,17 @@
  🔧 Technologies and tools
   </summary> <br>
  
-![HTML5](https://img.shields.io/badge/-HTML5-7159c1?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-7159c1?style=flat-square&logo=css3)
-![Javascript](https://img.shields.io/badge/-JavaScript-7159c1?style=flat-square&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-7159c1?style=flat-square&logo=Java&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-7159c1?style=flat-square&logo=mysql&logoColor=white)<br>
-![Git](https://img.shields.io/badge/-Git-7159c1?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-7159c1?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-7159c1?style=flat-square&logo=figma&logoColor=white)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
 </details>
 
