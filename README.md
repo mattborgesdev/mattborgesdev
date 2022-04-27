@@ -31,9 +31,6 @@
 
  - 🎲 My hobby is playing RPG using dice
 
- - 🚲 I love cycling around the city
-
- - ⌛ I am a lifelong learner and i see my future writing lines and lines of code
 </details>
 
 <details>
@@ -45,7 +42,7 @@
   
  - 📑 Graduated in IT Technician at <a href="https://www.linkedin.com/company/etb-escola-t-cnica-de-brasilia/" />ETB</a>
  
- - 🧠 Currently studying <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+ - 🧠 Currently studying <img src="https://img.shields.io/badge/React.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 
   <br>
   
