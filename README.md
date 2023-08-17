@@ -3,7 +3,7 @@
 <p align="left"> 
   Olá, me chamo Matheus, tenho 25 anos e sou Analista de Desenvolvimento em Cloud pela TOTVS, atuando na área de Devops. Entre diversas tecnologias que tenho contato hoje, as principais são:
   
-  Cloud (AWS e GCP), Python, Powershell, Windows e Linux.
+  ☁️ Cloud (AWS e GCP), Python, Powershell, Windows e Linux.
 
 </p>
 
