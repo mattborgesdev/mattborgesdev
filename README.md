@@ -3,11 +3,11 @@
 <p align="left"> 
   Hello! My name is Matheus, I'm 25 years old and I'm a Cloud Development Analyst at TOTVS in the Devops area. Among several technologies with which I have contact today, the main ones are:
   
-  ☁️ Cloud (AWS and GCP), CI/CD, Python, Powershell, Windows and Linux.
+  ☁️ Cloud (AWS and GCP), CI/CD, Python, Powershell, Windows, Linux.
 
   I explored in the past:
 
-  📚 Javascript ES6, Node.js, Java, Bootstrap, Sass, MySQL, MongoDB, Figma, Adobe XD, HTML, CSS, etc.
+  📚 Javascript ES6, Node.js, Java, Bootstrap, Sass, MySQL, MongoDB, Figma, Adobe XD, HTML, CSS.
 
 </p>
 
