@@ -1,23 +1,20 @@
-<img src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattborgesdev/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mattborgesdev@gmail.com)](mailto:mattborgesdev@gmail.com)
 
-<p align="left"> 
-  Hello! My name is Matheus, I'm Brazilian and I currently live in Brasília. I'm 25 years old and I'm a Cloud Development Analyst at TOTVS, working with Devops. Among several technologies that I have contact with today, the main ones are:
-  
-  ☁️ Cloud (AWS and GCP), CI/CD, Automation with Python and Powershell, Windows, Linux.
+### Hi there! 👋
 
-  I explored in the past:
+  I'm Matheus, I live in Brasília-DF and I'm a Development Analyst at Totvs, working with Devops. Among the various technologies that I have contact with today, the main ones are:
 
-  📚 Javascript ES6, Node.js, Java, Bootstrap, Sass, MySQL, MongoDB, UX/UI Figma, Adobe XD, HTML, CSS.
+☁️ Cloud (AWS and GCP), CI/CD, Automation with Python and Powershell, Kubernetes, Docker, Github Actions, Windows, Linux.
 
-</p>
+Currently studying:
 
-<p align="left">
-  <a href="https://linkedin.com/in/mattborgesdev/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  
-</p>  
+📚 Golang
 
-<br/>
+I explored in the past:
+
+📌 Javascript, Node.js, Express.js, Java, Bootstrap, Sass, MySQL, MongoDB, UX/UI, Figma, Adobe XD, HTML, CSS.
+
 
 <br/>
 
