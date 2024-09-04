@@ -5,7 +5,7 @@
 
 ### Hey there!
 
-My name is Matheus, I live in Brasília-DF, and I'm passionate about leveraging cloud technologies and automation to solve real-world problems. With two years of experience in DevOps, I'm a Cloud Development Analyst at <a href="https://www.totvs.com">@TOTVS</a>.
+My name is Matheus Borges, I live in Brasília-DF and I have two years of experience in DevOps. At <a href="https://www.totvs.com">@TOTVS</a> I work as a Cloud Development Analyst . I'm passionate about leveraging cloud technologies and automation to solve real-world problems.
 
 Beyond my work, I'm always eager to explore new technologies. Let's connect!
 
