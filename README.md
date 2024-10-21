@@ -12,6 +12,7 @@ Beyond my work, I'm always eager to explore new technologies. Let's connect!
 #### Languages and Tools
 
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" /></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/75685022/186163773-96a452e4-b570-4e5f-84e2-c591c8b0adbe.png" /></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></code>
