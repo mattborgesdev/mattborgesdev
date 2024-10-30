@@ -13,6 +13,8 @@
 * 🐳 Docker | Kubernetes
 * 🛠️ Windows | Linux | Git | Figma
 
+<img src="https://github-stats.omsimos.com/_next/image?url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dleerob%26theme%3Dblue-green%26hide_border%3Dtrue&w=640&q=75">
+
 ### 🤝🏻 Connect with me
 
 <p align="center">
