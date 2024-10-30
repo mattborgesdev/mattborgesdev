@@ -1,27 +1,25 @@
-<div>
-<a href = "mailto:mattborgesdev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/mattborgesdev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>   
-</div>
+### I am Matheus Borges
 
-### Hey there!
+### 🧙 About me
 
-My name is Matheus Borges, I live in Brasília-DF and I have two years of experience in DevOps. At <a href="https://www.totvs.com" target="_blank">@TOTVS</a>, I work as a Cloud Development Analyst. I'm passionate about leveraging cloud technologies and automation to solve real-world problems.
+* 🌎 DevOps professional from Brasília-DF, Cloud Development Analyst at <a href="https://www.totvs.com" target="_blank">@TOTVS</a>.
+* ☁️ Enthusiastic about cloud tech and automation.
+* 🚀 Always exploring new technologies — let's connect!
 
-Beyond my work, I'm always eager to explore new technologies. Let's connect!
+### 🛠 Tech Stack
 
-#### Languages and Tools
+* 💻 Languages & Scripting: PowerShell, Python, Golang
+* ☁️ Cloud & Infrastructure: AWS, Google Cloud, Terraform, Ansible, Packer
+* 🐳 Containers & Orchestration: Docker, Kubernetes
+* 🛠️ OS & Tools: Windows, Linux, Git, Figma
 
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/75685022/186163773-96a452e4-b570-4e5f-84e2-c591c8b0adbe.png" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /></code>
+### 🤝🏻 Connect with me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mattborgesdev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Matheus%20Borges-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:mattborgesdev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mattborgesdev@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
 <br/>
 
 <img align="center" src="https://github.com/mattborgesdev/mattborgesdev/blob/main/images/rainbow-line.png">
