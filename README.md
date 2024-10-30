@@ -8,10 +8,10 @@
 
 ### 🛠 Tech Stack
 
-* 💻 Languages & Scripting: PowerShell, Python, Golang
-* ☁️ Cloud & Infrastructure: AWS, Google Cloud, Terraform, Ansible, Packer
-* 🐳 Containers & Orchestration: Docker, Kubernetes
-* 🛠️ OS & Tools: Windows, Linux, Git, Figma
+* 💻 PowerShell | Python | Golang
+* ☁️ AWS | Google Cloud | Terraform | Ansible | Packer
+* 🐳 Docker | Kubernetes
+* 🛠️ Windows | Linux | Git | Figma
 
 ### 🤝🏻 Connect with me
 
