@@ -9,7 +9,7 @@
 ### 🛠 Tech Stack
 
 * 💻 PowerShell | Python | Golang
-* ☁️ AWS | Google Cloud | Terraform | Ansible | Packer
+* ☁️ AWS | Google Cloud
 * 🐳 Docker | Kubernetes
 * 🛠️ Windows | Linux | Git | Figma
 
