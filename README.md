@@ -1,6 +1,6 @@
-![be welcome](https://github.com/mattborgesdev/mattborgesdev/blob/main/images/greetings.png)
+![be welcome](https://github.com/mattborgesdev/mattborgesdev/blob/main/images/be-welcome.png)
 
-<img align="right" src="https://github.com/mattborgesdev/mattborgesdev/blob/main/images/catjam.gif" alt="Cat coding" width="300px">
+<img align="right" src="https://github.com/mattborgesdev/mattborgesdev/blob/main/images/catjam.gif" alt="Cat coding" width="250px">
 
 <div align="left">
   
