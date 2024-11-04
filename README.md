@@ -15,7 +15,8 @@
   * 💻 PowerShell | Python | Golang
   * ☁️ AWS | Google Cloud
   * 🐳 Docker | Kubernetes
-  * 🛠️ Windows | Linux | Git | Scrum | Kanban | Figma
+  * 🛠️ Windows | Linux | Git
+  * 📐 Scrum | Kanban | Bootstrap | Figma
 
   ### 🤝🏻 Connect with me
 
