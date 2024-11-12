@@ -7,8 +7,7 @@
   ### 🧙 About me
   
   * 🌎 DevOps professional from Brasília-DF, Cloud Development Analyst at <a href="https://www.totvs.com" target="_blank">@TOTVS</a>.
-  * ☁️ Enthusiastic about cloud tech and automation.
-  * 🚀 Always exploring new technologies.
+  * 🎲 Passionate about tabletop RPGs.
   
   ### 🛠 Tech Stack
   
