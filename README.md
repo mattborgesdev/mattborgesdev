@@ -6,6 +6,7 @@
   
   ### 🧙 About me
   
+  * 🚀 DevOps professional with 2 years of experience
   * 🌎 Cloud Development Analyst at <a href="https://www.totvs.com" target="_blank">@TOTVS</a>
   * 🎲 Passionate about tabletop RPGs
   
