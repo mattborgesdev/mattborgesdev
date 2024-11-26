@@ -13,11 +13,10 @@
   ### 🛠 Tech Stack
   
   * 💻 PowerShell | Python | Golang
-  * 🔧 Terraform | Ansible | Packer
+  * 🔧 Terraform | Ansible | Packer | Docker
   * ☁️ AWS | Google Cloud
-  * 🐳 Docker
-  * 🛠️ Windows | Linux | Git
-  * 📐 Scrum | Kanban | Bootstrap | Figma
+  * 🛠️ Windows | Linux
+  * 📐 Git | Scrum | Kanban | Bootstrap | Figma
 
 
   ### 🤝🏻 Connect with me
